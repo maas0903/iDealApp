@@ -1,0 +1,1 @@
+openssl req -config c:\ssl\openssl.cnf -x509 –sha256 -new -key u:\ideal\certs\IDEAL331_PrivateKey.pem -passin pass:12345 -days 1824 -out u:\ideal\certs\IDEAL331_Ingenico_Test.cer
